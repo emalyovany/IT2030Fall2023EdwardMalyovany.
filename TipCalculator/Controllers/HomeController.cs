@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using TipCalculator.Models;
 
 namespace TipCalculator.Controllers
